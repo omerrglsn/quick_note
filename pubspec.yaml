@@ -32,8 +32,12 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
+
+  # Database
   hive: ^2.2.3
   hive_flutter: ^1.1.0
+
+  # State
   provider: ^6.0.3
 
 dev_dependencies:
