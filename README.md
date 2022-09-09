@@ -1,4 +1,4 @@
-# hive_and_provider
+# Hive - Provider
 
 A new Flutter project.
 
